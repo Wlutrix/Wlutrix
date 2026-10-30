@@ -1,35 +1,26 @@
-# LinkedIn Profile (English)
+# Hi, I'm Wlutrix 👋
 
-## Headline
-Junior Python Developer | SQL & SQLite | Building data-driven CLI apps | Learning SQLAlchemy & FastAPI
+Junior Python Developer focused on backend fundamentals. I learn by building, one feature at a time.
 
-## About
-I'm a Python developer focused on backend fundamentals. I learn by building: my main project, FitLikeLegends, is a console application for tracking nutrition, products and meals. I started with in-memory data structures and recently migrated the app to SQLite, which taught me how to design a schema, write raw SQL, manage connections safely and separate business logic from data access.
+## 🔭 Currently
+- Building [FitLikeLegends](https://github.com/Wlutrix/FitLikeLegends), a Python console app for products, meals and nutrition tracking
+- Migrating the app from in-memory data to SQLite
+- Learning SQLAlchemy and FastAPI
 
-My toolkit includes Python, SQL, SQLite and Git. I'm currently learning SQLAlchemy and FastAPI, with the goal of building REST APIs and, later, user authentication and secure data handling.
+## 🛠 Tech stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-I'm looking for my first role as a Junior Python Developer or Junior Backend Developer, where I can keep learning from experienced engineers and contribute to real projects. I'm open to remote work and to relocation.
+## 📌 Featured projects
+- **[FitLikeLegends](https://github.com/Wlutrix/FitLikeLegends)**: console app with a products table, meal tracking and a clean split between models, services and the database layer
 
-Feel free to check my code on GitHub: github.com/Wlutrix
+## 🎯 Goals
+- Design and build REST APIs with FastAPI
+- Add user accounts, authentication and password hashing
+- Get my first role as a Python developer
 
-## Featured
-- GitHub profile: github.com/Wlutrix
-- Repository: FitLikeLegends
-
-## Projects
-
-### FitLikeLegends
-Console application in Python for managing products (nutritional values per 100 g) and meals, with calorie and macronutrient tracking.
-
-- Refactored data storage from in-memory lists to SQLite, using the database as the single source of truth
-- Designed a products table with constraints (primary key, case-insensitive unique names, NOT NULL macros)
-- Structured the code into models, services and a database layer, with error handling and safe connection management
-- Next: meal tables with many-to-many relations and weight tracking
-
-Tech: Python, SQLite, SQL, Git
-
-## Skills
-Python, SQL, SQLite, Git, OOP, Linux, Command Line, REST APIs (learning), SQLAlchemy (learning), FastAPI (learning)
 
 <!--
 **Wlutrix/Wlutrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
